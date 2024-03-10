@@ -1,0 +1,16 @@
+<th>name</th>
+<th>id</th>
+<th>gender</th>
+<th>date_of_birth</th>
+<th>date_of_joining</th>
+<th>blood_group</th>
+<th>contact_no</th>
+<th>emergency_contact_no</th>
+<th>address</th>
+<th>profile_pic</th>
+<th>role_id</th>
+<th>designation_id</th>
+<th>email</th>
+<th>username</th>
+<th>password</th>
+<th>is_login_user</th>
